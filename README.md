@@ -3,9 +3,9 @@
 my First commit
 
 
-
+================================================
 My Jenkins Commands  and jfrog installation steps
-
+=================================================
 MFS088@DESKTOP-J5NRSS1 MINGW64 ~/Downloads (main)
 $ ssh -i "MyJenkinsMasterKey7-9-2023.pem" ubuntu@ec2-18-191-218-79.us-east-2.compute.amazonaws.com
 
